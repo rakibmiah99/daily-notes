@@ -1,6 +1,6 @@
-- [ ] Django Install 
-- [ ] Django Create Project 
-- [ ] Django Create App 
+- [x] Django Install 
+- [x] Django Create Project 
+- [x] Django Create App 
 - [ ] Django Views 
 - [ ] Python List Presentation Complete 
 - [ ] Make Presentation Python Tupple

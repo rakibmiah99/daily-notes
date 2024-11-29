@@ -11,14 +11,10 @@
             "id": "bb460523f52c90fe",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01-29-11-2024/To do.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "To do"
+              "title": "New tab"
             }
           },
           {
@@ -27,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-29-11-2024/Django Installation.md",
+                "file": "01-29-11-2024 - django installation & python list, tupple/03. Django URLs.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Django Installation"
+              "title": "03. Django URLs"
             }
           }
         ],
@@ -179,8 +175,13 @@
   },
   "active": "b2b417dac3ac3668",
   "lastOpenFiles": [
-    "01-29-11-2024/To do.md",
-    "01-29-11-2024/Django Installation.md",
+    "01-29-11-2024 - django installation & python list, tupple/02. Django Create App.md",
+    "01-29-11-2024 - django installation & python list, tupple/01. Django Installation.md",
+    "01-29-11-2024 - django installation & python list, tupple/03. Django URLs.md",
+    "01-29-11-2024 - django installation & python list, tupple/04. Django Views.md",
+    "01-29-11-2024 - django installation & python list, tupple/05. Django Templates.md",
+    "01-29-11-2024 - django installation & python list, tupple/To do.md",
+    "Untitled.md",
     "Commands.md"
   ]
 }
